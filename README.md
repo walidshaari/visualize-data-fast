@@ -35,8 +35,8 @@
 
 1. Create the scatterplot woth correlations: 
     1. Select the `Scatterplot chart` on the CHART TYPES. <img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/14%20scatter%201.png">
-    1. Select column "value".
-    1. Click `Add another column` and select column "median". <img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/15%20scatter%202.png">
-    1. Click `Add another column` and select column "mean".
+    1. Select column "rebates in USD".
+    1. Click `Add another column` and select column "median-household-income". <img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/15%20scatter%202.png">
+    1. Click `Add another column` and select column "mean-household-income".
     1. Click `Add another column` and select column "population".
     1. Only strong correlation is between "median" and "mean" which is not surprising (the mean and median household income are similar statistics). <img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/16%20scatter%203.png">
